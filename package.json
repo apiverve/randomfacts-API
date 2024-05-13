@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/randomfacts",
+  "version": "1.0.0",
+  "description": "Random Facts is a simple tool for getting random facts. It returns a random fact.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/randomfacts-API.git"
+  },
+  "keywords": [
+    "random facts"," random fact"," random facts generator"," random fact generator"," random facts api"," random fact api"," random facts tool"," random fact tool"," random facts software"," random fact software"," random facts service"," random fact service"," random facts library"," random fact library"," random facts sdk"," random fact sdk"," random facts code"," random fact code"," random facts script"," random fact script"," random facts program"," random fact program"," random facts application"," random fact application"," random facts app"," random fact app"," random facts utility"," random fact utility"," random facts helper"," random fact helper"," random facts helper tool"," random fact helper tool"," random facts helper software"," random fact helper software"," random facts helper service"," random fact helper service"," random facts helper library"," random fact helper library"," random facts helper sdk"," random fact helper sdk"," random facts helper code"," random fact helper code"," random facts helper script"," random fact helper script"," random facts helper program"," random fact helper program"," random facts helper application"," random fact helper application"," random facts helper app"," random fact helper app"," random facts helper tool"," random fact helper tool"," random facts helper utility"," random fact helper utility"," random facts helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/randomfacts-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/randomfacts-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
