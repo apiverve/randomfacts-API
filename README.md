@@ -69,7 +69,7 @@ api.execute(function (error, data) {
   "status": "ok",
   "error": null,
   "data": {
-    "fact": "There are 7 points on the Statue of Liberty's crown"
+    "fact": "Moths are not really attracted to light it fly towards the blackest point which is behind the light."
   }
 }
 ```
