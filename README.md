@@ -69,7 +69,7 @@ api.execute(function (error, data) {
   "status": "ok",
   "error": null,
   "data": {
-    "fact": "Martha Stewart became a billionaire while in prison."
+    "fact": "Famous lyricist \"Vairamuthu\"was born on 13-July-1953. He received the National Award 5 times in his career so far."
   },
   "code": 200
 }
